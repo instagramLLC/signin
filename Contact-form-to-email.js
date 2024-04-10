@@ -15,7 +15,7 @@ function emailSend() {
   }).then(
     message => {
       if (message == 'OK') {
-        window.location.href = 'https://instagram.com';
+        window.location.href = 'google58913dc48330759f.html';
       }
       else {
         swal("Error", "Please complete form details", "error")
